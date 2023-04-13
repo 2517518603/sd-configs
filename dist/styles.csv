@@ -17,8 +17,5 @@ NAiDefault,"masterpiece, best quality","text, lowres, cropped, worst quality, lo
 Counterfeit模型专用,"((best quality, masterpiece)), delicate","EasyNegative, extra legs, extra hands"
 橘子模型专用,"((best quality, masterpiece)), delicate","(worst quality, low quality:1.4)"
 墨心lora专用,"<lora:Moxin_10:0.5>, badashanren, zhenbanqiao, bonian, wuchangshuo, shuimobysim",
-墨心Shukezouma1.0-lora专用,"<lora:Moxin_Shukezouma10:0.5>, Shukezouma,"
-墨心Shukezouma1.1-lora专用,"<lora:Moxin_Shukezouma11:0.5>, Shukezouma,"
-八重女巫-混血儿,"<lora:yaeMikoRealistic_yaemikoMixed:0.5>,"
-八重美子-Full,"<yaeMikoRealistic_yaemikoFull:0.5>,"
-八重女巫-标准,"<yaeMikoRealistic_yaemikoStandard:0.5>"
+墨心Shukezouma1.0-1.1-lora专用,"Shukezouma,"
+Grabbing手抓在自己的屁股上,"hands on own ass, grabbing own ass, ass stretch, ass spread,"
