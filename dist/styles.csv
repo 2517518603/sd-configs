@@ -1,6 +1,6 @@
 ﻿name,prompt,negative_prompt
-Default,"masterpiece, best quality","lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry,artist name"
-NAiDefault,"masterpiece, best quality","text, lowres, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, bad anatomy, bad hands, error, missing fingers, extra digit, fewer digits, missing arms, long neck, Humpbacked"
+默认,"masterpiece, best quality","lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry,artist name"
+NAi默认,"masterpiece, best quality","text, lowres, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, bad anatomy, bad hands, error, missing fingers, extra digit, fewer digits, missing arms, long neck, Humpbacked"
 高质壁纸,"masterpiece, best quality, 8k, finely detailed beautiful eyes, vividcolor, beautiful detailed face, Cinematic light, ray tracing, high resolution illustration, colorful, 8k wallpaper, highres",
 精致女孩,an extremely delicate and beautiful girl,
 镜头虚化,"depth of field, blurry background, blurry foreground, ",
@@ -15,3 +15,4 @@ NAiDefault,"masterpiece, best quality","text, lowres, cropped, worst quality, lo
 长T恤,"t-shirt, long t-shirt, narrow waist t-shirt, t-shirt over hips, short dress","bare, nafw, sagging breast, crop top"
 CounterFeit模型专用,"masterpiece, best quality",EasyNegative
 橘子模型专用,"masterpiece, best quality","(worst quality, low quality:1.4)"
+墨心lora专用,"shuimobysim，wuchangshuo，bonian，zhenbanqiao，badashanren"
