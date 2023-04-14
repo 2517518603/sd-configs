@@ -16,4 +16,4 @@ NAiDefault,"masterpiece, best quality","text, lowres, cropped, worst quality, lo
 长T恤,"t-shirt, long t-shirt, narrow waist t-shirt, t-shirt over hips, short dress","bare, nafw, sagging breast, crop top"
 Counterfeit模型专用,"((best quality, masterpiece)), delicate","EasyNegative, extra legs, extra hands"
 橘子模型专用,"((best quality, masterpiece)), delicate","(worst quality, low quality:1.4)"
-墨心lora专用,"badashanren, zhenbanqiao, bonian, wuchangshuo, shuimobysim"
+墨心lora专用,"<lora:Moxin_10:0.5>,badashanren,zhenbanqiao,bonian,wuchangshuo,shuimobysim"
