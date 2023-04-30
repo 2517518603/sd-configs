@@ -10,7 +10,7 @@
     "txt2img/Sampling steps/visible": true,
     "txt2img/Sampling steps/value": 20,
     "txt2img/Sampling steps/minimum": 1,
-    "txt2img/Sampling steps/maximum": 60,
+    "txt2img/Sampling steps/maximum": 500,
     "txt2img/Sampling steps/step": 1,
     "txt2img/Width/visible": true,
     "txt2img/Width/value": 512,
