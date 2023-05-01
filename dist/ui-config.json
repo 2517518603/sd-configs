@@ -1,21 +1,3 @@
-
-2517518603
-/
-sd-configs
-Public
-Code
-Issues
-Pull requests
-Projects
-Security
-Insights
-Settings
-Beta Try the new code view
-sd-configs/dist/ui-config.json
-@2517518603
-2517518603 更新 ui-config.json
- 2 contributors
-810 lines (810 sloc)  50.3 KB
 {
     "txt2img/Prompt/visible": true,
     "txt2img/Prompt/value": "",
