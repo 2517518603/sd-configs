@@ -65,7 +65,7 @@
     "sd_model_checkpoint": "Counterfeit-V3.0_fp32.safetensors",
     "sd_checkpoint_cache": 0,
     "sd_vae_checkpoint_cache": 0,
-    "sd_vae": "通用VAE.vae.pt",
+    "sd_vae": "Automatic",
     "sd_vae_as_default": true,
     "inpainting_mask_weight": 1.0,
     "initial_noise_multiplier": 1.0,
