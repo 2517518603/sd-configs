@@ -183,5 +183,5 @@
     "tac_activeIn.modelListMode": "Blacklist",
     "tac_useHypernetworks": true,
     "tac_useLoras": true,
-    "tac_showWikiLinks": false
+    "tac_showWikiLinks": false,
 }
