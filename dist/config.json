@@ -62,7 +62,7 @@
     "training_enable_tensorboard": false,
     "training_tensorboard_save_images": false,
     "training_tensorboard_flush_every": 120,
-    "sd_model_checkpoint": "梦想塑造者_V5_自带VAE_fp16.safetensors",
+    "sd_model_checkpoint": "Counterfeit-V3.0_fp32.safetensors",
     "sd_checkpoint_cache": 0,
     "sd_vae_checkpoint_cache": 0,
     "sd_vae": "通用VAE.vae.pt",
